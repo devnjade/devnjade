@@ -8,4 +8,5 @@
 - 🥷🏽 Hire me/Contact me: [Mail Me](mailto:adecancode@gmail.com), [Portfolio](https://www.doyin.xyz/contact)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/tasxzd?label=Follow)
-![GitHub followers](https://img.shields.io/github/followers/devnjade?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/devnjade?label=Follow&style= 
+![Profile views](https://gpvc.arturio.dev/devnjade)
